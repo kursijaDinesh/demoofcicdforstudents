@@ -1,0 +1,9 @@
+{
+	"name": "demoofcicdforstudents",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59fa376a-2843-4af2-bfe9-c16f366f3558",
+		"tenantId": "176559cf-3239-4c98-81af-0f951fc95b75"
+	}
+}
